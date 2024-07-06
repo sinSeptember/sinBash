@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define variables
-local_repo_path="/home/september/Desktop/vault"  
+local_repo_path="Path/to/directory"  
 commit_message="Update from script"         
 remote_name="origin"                        
 branch_name="master"                          
